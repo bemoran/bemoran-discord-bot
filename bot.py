@@ -261,6 +261,4 @@ async def _8ball_error(ctx, error):
 
 
 
-client.run('ODIzMzA4NjI2NjQyMjA2NzQw.YFe76A.wUnihYOHQPUIOyLpc0gsx-g7gJM')
-
 
